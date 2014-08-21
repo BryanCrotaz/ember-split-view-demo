@@ -2,6 +2,7 @@
 
 var Application = require('ember-split-view-demo/app')['default'];
 var Router = require('ember-split-view-demo/router')['default'];
+import Ember from 'ember';
 
 export default function startApp(attrs) {
   var App;
