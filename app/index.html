@@ -13,13 +13,11 @@
     <link rel="stylesheet" href="assets/ember-split-view-demo.css">
   </head>
   <body>
-    <script>
-      window.EmberSplitViewDemoENV = {{ENV}};
-      window.EmberENV = window.EmberSplitViewDemoENV.EmberENV;
-    </script>
     <script src="assets/vendor.js"></script>
     <script src="assets/ember-split-view-demo.js"></script>
     <script>
+      window.EmberSplitViewDemoENV = require('ember-split-view-demo/config/environment')['default'];
+      window.EmberENV = window.EmberSplitViewDemoENV.EmberENV;
       window.EmberSplitViewDemo = require('ember-split-view-demo/app')['default'].create(EmberSplitViewDemoENV.APP);
     </script>
   </body>
