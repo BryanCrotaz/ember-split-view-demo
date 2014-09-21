@@ -47,6 +47,14 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "/Users/bhunt/Documents/Code/OpenSource/ember-split-view-demo/bower.json",
+			"settings":
+			{
+				"buffer_size": 492,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -73,12 +81,20 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/Users/bhunt/Documents/Code/OpenSource/ember-split-view-demo",
+		"/Users/bhunt/Documents/Code/OpenSource/ember-split-view-demo/app",
+		"/Users/bhunt/Documents/Code/OpenSource/ember-split-view-demo/app/helpers",
+		"/Users/bhunt/Documents/Code/OpenSource/ember-split-view-demo/app/templates"
+	],
 	"file_history":
 	[
-		"/Users/bhunt/Documents/Code/OpenSource/ember-split-view-demo/config/environment.js",
+		"/Users/bhunt/Documents/Code/OpenSource/ember-split-view-demo/app/templates/composite.hbs",
 		"/Users/bhunt/Documents/Code/OpenSource/ember-split-view-demo/package.json",
-		"/Users/bhunt/Documents/Code/OpenSource/ember-split-view-demo/sublime/ember-split-view-demo.sublime-project",
 		"/Users/bhunt/Documents/Code/OpenSource/ember-split-view-demo/bower.json",
+		"/Users/bhunt/Documents/Code/OpenSource/ember-split-view-demo/config/environment.js",
+		"/Users/bhunt/Documents/Code/OpenSource/ember-split-view-demo/sublime/ember-split-view-demo.sublime-project",
 		"/Users/bhunt/Documents/Code/OpenSource/ember-split-view-demo/tests/.jshintrc",
 		"/Users/bhunt/Documents/Code/OpenSource/code-easy/app/components/css-style.js",
 		"/Users/bhunt/Documents/Code/OpenSource/code-easy/app/templates/components/css-style.hbs",
@@ -184,8 +200,39 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "/Users/bhunt/Documents/Code/OpenSource/ember-split-view-demo/bower.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 492,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								127,
+								127
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -254,6 +301,7 @@
 		],
 		"width": 0.0
 	},
+	"selected_group": 0,
 	"settings":
 	{
 	},
