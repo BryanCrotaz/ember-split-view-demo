@@ -4,7 +4,7 @@ module.exports = function(environment) {
   var ENV = {
     modulePrefix: 'ember-split-view-demo',
     environment: environment,
-    baseURL: '/',
+    baseURL: '/ember-split-view',
     locationType: 'auto',
     EmberENV: {
       FEATURES: {
