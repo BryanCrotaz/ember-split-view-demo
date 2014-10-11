@@ -6,7 +6,7 @@ var Router = Ember.Router.extend({
 });
 
 Router.map(function() {
-  this.resource('vertical');
+  this.route('vertical');
   this.route('horizontal');
   this.route('verticalComposite');
   this.route('horizontalComposite');
