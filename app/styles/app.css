@@ -26,14 +26,7 @@ pre {
   border-radius: 10px;
   padding: 10px;
   overflow: hidden;
-}
-
-.vertical {
-  min-width: 100px;  
-}
-
-.horizontal {
-  min-height: 100px;
+  min-width: 100px;
 }
 
 .compositeRight {
